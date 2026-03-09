@@ -1,0 +1,12 @@
+- today i learned basics and i guess i just place my first step in this industry.
+- here is what i learned in my words
+
+- computer can do amazing work with speed and also do complex task.
+- the telling to computer like what to do and how to do its programming like giving instructions.
+- like computer only do what we tell exectly and that only.
+- for that we need to write code that computer understand and one of them is python.
+- computer only does what we tell not less not more just that only, so we need to write perfectly.
+- errors are normal so over time we fix that so its okie if im getting errors.
+- print is used for printing things and we can also use python as calculater.
+- so we use computer to do work faster and perfectly but we need to write code perfectly.
+- so our main work is to write something that do complex kinda of work through the helps of computer.
